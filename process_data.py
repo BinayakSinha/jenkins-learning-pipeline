@@ -4,7 +4,7 @@ import os
 print("Extracting raw data...")
 raw_data = [
     {"id": 1, "name": "Alice", "status": "active"},
-    {"id": 2, "name": "Bob", "status": "INACTIVE"},
+    {"id": 2, "name": "Mark", "status": "INACTIVE"},
     {"id": 3, "name": "Charlie", "status": "Active"}
 ]
 print("Transforming data...")
